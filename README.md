@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi, I'm Tomás 👋
 
-My name is Tomás, and I'm a Computer Engineer with a Master’s degree from NOVA School of Science and Technology.
+🎓 Software Engineer with a Master’s degree from NOVA School of Science and Technology<br/>
+💻 Passionate about building efficient software and solving real-world problems.
 
 <!--
 **tomas287/tomas287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
